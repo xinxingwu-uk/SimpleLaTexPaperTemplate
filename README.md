@@ -1,1 +1,1 @@
-# SimpleLaTexPaperTemplate
+# A Simple LaTex Paper Template
